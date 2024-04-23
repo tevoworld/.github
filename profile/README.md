@@ -2,6 +2,9 @@
 
 ```md
 > be you
-> go to tevoworld
-> be free
+> visit tevoworld
+> read tevoworld
+> love tevoworld
+
+welcome to tevoworld
 ```
