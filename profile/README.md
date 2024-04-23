@@ -1,5 +1,5 @@
 ```md
 > be you
-> use tevoworld
+> go to tevoworld
 > be free
 ```
